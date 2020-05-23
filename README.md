@@ -4,7 +4,7 @@ Bài tập sử dụng library EasyPermission và pick multiple picture from gal
 
 Đây là demo mình sử dụng library EasyPermission và pick multiple picture from gallery. 
 
-[[![image](https://github.com/anhoang241998/EasyPermission/blob/master/PictureDemo/demo.gif?raw=true)
+![image](https://github.com/anhoang241998/EasyPermission/blob/master/PictureDemo/demo.gif?raw=true)
 
 ### Features
 
